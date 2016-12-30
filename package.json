@@ -1,0 +1,16 @@
+{
+  "name": "papercutng_cucumber_nodejs_selenium",
+  "version": "1.0.0",
+  "description": "Automation assignments",
+  "main": "index.js",
+  "dependencies": {
+    "cucumber": "^2.0.0-rc.5",
+    "selenium-webdriver": "^3.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abigail Nguyen",
+  "license": "ISC"
+}
